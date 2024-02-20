@@ -1,5 +1,5 @@
 {
-  "index": "Introduction",
+    "index": "Introduction",
   "userguid": "User Guid",
   "mydashboard": "My Dashboard",
   "admindashboard": "Admin Dashboard",
@@ -13,24 +13,6 @@
     "perdiemrate": "Perdiem Rate",
     "corporatecard": "Corporate Card",
     "exchangerate": "Exchange Rate",
-    "mileagerate": "Mileage Rate",
+    "mileagerate": "Mileage Rate"
 
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-
-  "admin": {
-    "title": "Admin",
-    "type": "page"
-  },
-  
-
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://www.assist360.com.sg",
-    "newWindow": true
-  }
- 
 }
