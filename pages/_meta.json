@@ -1,10 +1,10 @@
 {
+  "CONTENTS":"CONTENTS",
   "index": "Introduction",
-  "userguid": "User Guid",
   "mydashboard": "My Dashboard",
   "admindashboard": "Admin Dashboard",
   "advance": "Advance",
-  "claims": "Claims",
+  "claims": "Claim Assist",
   "approverhistory": "Approver history",
   "myapprover": "My Approver",
   "staff": "Staff",
@@ -20,16 +20,10 @@
     "type": "page"
   },
 
-  "admin": {
-    "title": "Admin",
-    "type": "page"
-  },
-  
-
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://www.assist360.com.sg",
+    "href": "https://cheerful-daffodil-60ac21.netlify.app/",
     "newWindow": true
   }
  
