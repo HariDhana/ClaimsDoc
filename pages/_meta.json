@@ -1,27 +1,17 @@
 {
   "CONTENTS":"CONTENTS",
   "index": "Introduction",
-  "mydashboard": "My Dashboard",
-  "admindashboard": "Admin Dashboard",
-  "advance": "Advance",
-  "claims": "Claim Assist",
-  "approverhistory": "Approver history",
-  "myapprover": "My Approver",
-  "staff": "Staff",
-  "approver": "Approver",
-    "dictionary": "Dictionary",
-    "perdiemrate": "Perdiem Rate",
-    "corporatecard": "Corporate Card",
-    "exchangerate": "Exchange Rate",
-    "mileagerate": "Mileage Rate",
-
+  "User": "User",
+  "Approver":"Approver",
+  "Admin":"Admin",
+ 
   "about": {
     "title": "About",
     "type": "page"
   },
 
   "contact": {
-    "title": "Contact ↗",
+    "title": "ClaimApp ↗",
     "type": "page",
     "href": "https://cheerful-daffodil-60ac21.netlify.app/",
     "newWindow": true
