@@ -1,20 +1,48 @@
 {
-  "CONTENTS":"CONTENTS",
+  "CONTENTS": "CONTENTS",
   "index": "Introduction",
-  "User": "User",
-  "Approver":"Approver",
-  "Admin":"Admin",
- 
+  "User": {
+    "title": "User",
+    "items": {
+      "mydashboard": "My Dashboard",
+      "advance": "Advance",
+      "claims": "Claims"
+    }
+  },
+  "Approver": {
+    "title": "Approver",
+    "items": {
+      "mydashboard": "My Dashboard",
+      "advance": "Advance",
+      "claims": "Claims",
+      "approverhistory": "Approver History"
+    }
+  },
+  "Admin": {
+    "title": "Admin",
+    "items": {
+      "mydashboard": "My Dashboard",
+      "admindashboard": "Admin Dashboard",
+      "advance": "Advance",
+      "claims": "Claims",
+      "approverhistory": "Approver History",
+      "staff": "Staff",
+      "approver": "Approver",
+      "dictionary": "Dictionary",
+      "perdiemrate": "Per Diem Rate",
+      "corporatecard": "Corporate Card",
+      "exchangerate": "Exchange Rate",
+      "mileagerate": "Mileage Rate"
+    }
+  },
   "about": {
     "title": "About",
     "type": "page"
   },
-
   "contact": {
     "title": "ClaimApp ↗",
     "type": "page",
     "href": "https://cheerful-daffodil-60ac21.netlify.app/",
     "newWindow": true
   }
- 
 }
