@@ -3,11 +3,10 @@
   "index": {
     "title": "Introduction",
     "theme": {
-      "layout": "full",
       "breadcrumb": false,
-      "footer": true,
+      "footer": false,
       "sidebar": true,
-      "toc": false,
+      "toc": true,
       "pagination": true
     }
   },
@@ -16,7 +15,7 @@
     "theme": {
       "layout": "full",
       "breadcrumb": false,
-      "footer": true,
+      "footer": false,
       "sidebar": true,
       "toc": false,
       "pagination": true
@@ -27,7 +26,7 @@
     "theme": {
       "layout": "full",
       "breadcrumb": false,
-      "footer": true,
+      "footer": false,
       "sidebar": true,
       "toc": false,
       "pagination": true
