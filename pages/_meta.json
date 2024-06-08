@@ -1,10 +1,49 @@
 {
   "CONTENTS": "CONTENTS",
-  "index": "Introduction",
-  "User": "User",
-  "Approver": "Approver",
-  "Admin":"Admin",
-  
+  "index": {
+    "title": "Introduction",
+    "theme": {
+      "layout": "full",
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": false,
+      "pagination": true
+    }
+  },
+  "User":{
+    "title": "User",
+    "theme": {
+      "layout": "full",
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": false,
+      "pagination": true
+    }
+  },
+  "Approver":{
+    "title": "Approver",
+    "theme": {
+      "layout": "full",
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": false,
+      "pagination": true
+    }
+  },
+  "Admin":{
+    "title": "Admin",
+    "theme": {
+      "layout": "full",
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": false,
+      "pagination": true
+    }
+  },
   "about": {
     "title": "About",
     "type": "page"
@@ -12,7 +51,7 @@
   "contact": {
     "title": "ClaimApp ↗",
     "type": "page",
-    "href": "https://cheerful-daffodil-60ac21.netlify.app/",
+    "href": "https://claims.assist360.com.sg",
     "newWindow": true
   }
 }

@@ -20,5 +20,5 @@ function MyButton() {
 }
 
 export default function MyApp() {
-  return <MyButton />
+  return MyButton()
 }
