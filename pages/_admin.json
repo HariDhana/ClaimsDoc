@@ -2,9 +2,9 @@
     "index": "Introduction",
   "userguid": "User Guid",
   "mydashboard": "My Dashboard",
-  "admindashboard": "Admin Dashboard",
   "advance": "Advance",
   "claims": "Claims",
+  "approverdashboard": "Approver Dashboard",
   "approverhistory": "Approver history",
   "myapprover": "My Approver",
   "staff": "Staff",
@@ -13,6 +13,7 @@
     "perdiemrate": "Perdiem Rate",
     "corporatecard": "Corporate Card",
     "exchangerate": "Exchange Rate",
-    "mileagerate": "Mileage Rate"
+    "mileagerate": "Mileage Rate",
+    "log": "Log"
 
 }
